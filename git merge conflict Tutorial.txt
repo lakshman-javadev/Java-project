@@ -1,0 +1,20 @@
+Now if there are two branches that you are trying to merge both chains the same path of the same file git
+
+won't be able to figure out which version to use .When such a situation occurs.
+
+How to resolve conflix in git command line
+
+to Edit the file 
+-----------------
+Step 1 : vim Filename
+
+
+To quit and save the file 
+---------------------------
+escape key + : Colonwq to quit and save.
+
+Esc + :wq
+
+Express Commit
+-------------------
+git commit -am " Commit message"
